@@ -1,3 +1,2 @@
-# object-mapping
+# Object Mapping In JavaScript
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-iruqqm)
